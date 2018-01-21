@@ -34,3 +34,8 @@ __Goals:__
 
 -	Although our data is based around regression models, we wanted to experiment with classifiers as well, and compare accuracies.
 
+__My contribution to the project:__
+
+- I was in charge of trying various methods in our Training dataset. One of these methods included, __ignoring Rows with NaNs in our Training Dataset.__ All in all, our report goes into more detail about our certain approaches.
+
+
