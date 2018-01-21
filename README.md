@@ -2,10 +2,10 @@
 
 Team Members:
  
-Cedric Tong            	
-Wilbert Veit            	
-Gonzalo Serrano     	
-Aaron Romero        	
+Cedric Tong,            	
+Wilbert Veit,            	
+Gonzalo Serrano,     	
+Aaron Romero,        	
 Avik Gharzarian     	
  
 Project Title:
