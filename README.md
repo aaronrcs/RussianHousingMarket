@@ -20,8 +20,8 @@ __Data:__
 
 The target variable is called __price_doc__ in the train.csv file.
 
--train.csv and test.csv: they hold information regarding transactions. Each Row in these files are indexed by an “id”, which refers to -individual transactions. These files also include supplementary details about local area of each person.
+- __train.csv and test.csv:__ they hold information regarding transactions. Each Row in these files are indexed by an “id”, which refers to -individual transactions. These files also include supplementary details about local area of each person.
 
--macro.csv: This file contains details about Russia’s macroeconomy and financial sector; this file can be joined to the test and train csv files on the “timestamp” column.
+- __macro.csv:__ This file contains details about Russia’s macroeconomy and financial sector; this file can be joined to the test and train csv files on the “timestamp” column.
 
--BAD_ADDRESS_FIX.xlsx: There was a problem with coordinates for some properties which lead to errors in distance parameters, because they were calculated from the heart of Moscow for such cases, which is wrong. This file fixes the parameters.
+- __BAD_ADDRESS_FIX.xlsx:__ There was a problem with coordinates for some properties which lead to errors in distance parameters, because they were calculated from the heart of Moscow for such cases, which is wrong. This file fixes the parameters.
