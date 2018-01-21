@@ -1,6 +1,6 @@
 # RussianHousingMarket
 
-Team Members:
+__Team Members:__
  
 Cedric Tong,            	
 Wilbert Veit,            	
@@ -8,7 +8,7 @@ Gonzalo Serrano,
 Aaron Romero,        	
 Avik Gharzarian     	
  
-Project Title:
+__Project Title:__
  
 Sberbank Russian Housing Market
  
